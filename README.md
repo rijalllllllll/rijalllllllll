@@ -12,6 +12,7 @@
 
 - **[smart-classroom-monitor](https://github.com/rijalllllllll/smart-classroom-monitor)** — Real-time AI classroom monitoring & participation scoring: precision raise-hand detection, Moodle `mod_chatbot` plugin, TP-Link VIGI PTZ driver (RFC2617 SHA-256), Telegram alerts.
 - **[security-alert-platform](https://github.com/rijalllllllll/security-alert-platform)** — SOC alert triage & management: ingest from any SIEM/EDR, FP/BTP/TP classification, MITRE ATT&CK tagging, VirusTotal/AbuseIPDB enrichment, analyst timeline, vanilla-JS dashboard (FastAPI).
+- **[ai-qa-automation-framework](https://github.com/rijalllllllll/ai-qa-automation-framework)** — QA automation framework around an AI children's story generator: 9 Playwright E2E specs + 13 pytest API tests, scenario-driven test data, GitHub Actions CI (green).
 
 ## 📫 Reach me
 
